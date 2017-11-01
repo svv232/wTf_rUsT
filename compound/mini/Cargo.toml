@@ -1,0 +1,8 @@
+[package]
+name = "mini"
+version = "0.1.0"
+authors = ["sai <svv232@nyu.edu>"]
+
+[dependencies]
+
+rand = "0.3"
